@@ -1,0 +1,15 @@
+name: Atualizar README
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # corre todos os dias às 06:00 UTC
+  workflow_dispatch:      # permite execução manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Atualizar cache do Readme Stats
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMSCastro&layout=compact&langs_count=10&theme=github_dark&cache_seconds=1" > /dev/null
