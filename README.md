@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-jk9q.vercel.app/api/top-langs?username=CarlosMSCastro&layout=compact&langs_count=10&theme=github_dark)
+
 # Carlos Castro
 
 **Full-Stack Developer** • Vila Nova de Famalicão, Portugal
@@ -8,11 +8,7 @@
 
 ---
 
-## About Me
-
-I build web applications and data-driven tools. Currently working with Python and PHP while expanding into modern JavaScript frameworks.
-
-Focused on backend development, automation, and creating practical solutions to real problems.
+![Top Langs](https://github-readme-stats-jk9q.vercel.app/api/top-langs?username=CarlosMSCastro&layout=compact&langs_count=10&theme=github_dark)
 
 ---
 
