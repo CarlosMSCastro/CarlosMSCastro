@@ -44,7 +44,7 @@
 
 **Stack:** `Python` `PySide6` `SQLite` `REST APIs`
 
-[View Repository →](https://github.com/CarlosMSCastro/ExploitIGL)
+🔗 [View Repository →](https://github.com/CarlosMSCastro/ExploitIGL)
 
 ### CMS Platform
 > Custom content management system with admin panel for dynamic content editing
