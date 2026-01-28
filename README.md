@@ -48,7 +48,7 @@
 
 ### CMS Platform
 > Custom content management system with admin panel for dynamic content editing
-
+![Backoffice](imgsreadme/gif1.gif?width=300) 
 **Stack:** `PHP` `MySQL` `Bootstrap` `Authentication`
 
 🔗 [View Repository →](https://github.com/CarlosMSCastro/Comunicacoes)  
