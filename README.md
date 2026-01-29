@@ -24,7 +24,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-
 >  Actively developing React skills ([Movies App Demo](https://ccdev-react.ct.ws))
 ---
 ## Featured Projects
@@ -32,10 +31,9 @@
 ### ExploitIGL
 > Poker analytics platform for hand history analysis and opponent profiling
 **Stack:** `Python` `PySide6` `SQLite` `REST APIs`
-
 🔗 [View Repository →](https://github.com/CarlosMSCastro/ExploitIGL)
 
-### CMS Platform
+### CMS-PHP Platform
 > Custom content management system with admin panel for dynamic content editing
 **Stack:** `PHP` `MySQL` `Bootstrap` `Authentication`
 🔗 [View Repository →](https://github.com/CarlosMSCastro/Comunicacoes)  
