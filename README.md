@@ -32,6 +32,7 @@
 ### ExploitIGL
 > Poker analytics platform for hand history analysis and opponent profiling
 **Stack:** `Python` `PySide6` `SQLite` `REST APIs`
+
 🔗 [View Repository →](https://github.com/CarlosMSCastro/ExploitIGL)
 
 ### CMS Platform
