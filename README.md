@@ -28,12 +28,12 @@
 
 ### ExploitIGL
 > Poker analytics platform for hand history analysis and opponent profiling
-**Stack:** `Python` `PySide6` `SQLite` `REST APIs`
+**Stack:** `Python` `PySide6` `SQLite` `REST APIs`<br>
 🔗 [View Repository →](https://github.com/CarlosMSCastro/ExploitIGL)
 
 ### CMS-PHP Platform
 > Custom content management system with admin panel for dynamic content editing
-**Stack:** `PHP` `MySQL` `Bootstrap` `Authentication`
+**Stack:** `PHP` `MySQL` `Bootstrap` `Authentication`<br>
 🔗 [View Repository →](https://github.com/CarlosMSCastro/Comunicacoes)  
 🌍 [Visit Live Website →](https://ccdev.free.nf)  
 🔐 [Visit Live Backoffice →](https://ccdev.free.nf/backoffice)
