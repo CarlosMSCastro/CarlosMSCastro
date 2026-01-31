@@ -22,10 +22,7 @@
 
 
 
->  Actively developing React skills <br>
-
-([MovieDatabaseDemo](https://ccdev-react.ct.ws/moviedb))
-([MemoryGame](https://ccdev-react.ct.ws/afbraga))
+>  Actively developing React skills  ([MovieDatabaseDemo](https://ccdev-react.ct.ws/moviedb)) ([MemoryGame](https://ccdev-react.ct.ws/afbraga))
 ---
 ## Featured Projects
 
