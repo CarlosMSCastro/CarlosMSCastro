@@ -22,7 +22,7 @@
 
 
 
->  Actively developing React skills  ([MovieDatabaseDemo](https://ccdev-react.ct.ws/moviedb)) ([MemoryGame](https://ccdev-react.ct.ws/afbraga))
+>  Actively developing React skills  🔗([MovieDatabaseDemo](https://ccdev-react.ct.ws/moviedb)) 🔗([MemoryGame](https://ccdev-react.ct.ws/afbraga))
 ---
 ## Featured Projects
 
@@ -35,7 +35,7 @@
 > Custom content management system with admin panel for dynamic content editing
 **Stack:** `PHP` `MySQL` `Bootstrap` `Authentication`<br>
 🔗 [View Repository →](https://github.com/CarlosMSCastro/Comunicacoes)  
-🌍 [Visit Live Website →](https://ccdev.free.nf)  
-🔐 [Visit Live Backoffice →](https://ccdev.free.nf/backoffice)
+🔗 [Visit Live Website →](https://ccdev.free.nf)  
+🔗 [Visit Live Backoffice →](https://ccdev.free.nf/backoffice)
 ---
 Currently open to **junior developer** and **trainee positions** in Porto/Braga area or remote opportunities.
