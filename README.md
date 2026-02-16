@@ -21,7 +21,7 @@
 
 
 
->  Actively developing React skills  🔗([MovieDatabaseDemo](https://ccdev-react.ct.ws/moviedb)) 🔗([MemoryGame](https://ccdev-react.ct.ws/afbraga)) 🔗([MusicPlayer](https://ccdev-react.ct.ws/musicplayer)) 🔗([CryptoDashboard](https://ccdev-react.ct.ws/cryptodashboard))
+>  Actively developing React skills  🔗([MovieDatabase](https://ccdev-react.ct.ws/moviedb)) 🔗([MemoryGame](https://ccdev-react.ct.ws/afbraga)) 🔗([MusicPlayer](https://ccdev-react.ct.ws/musicplayer)) 🔗([CryptoDashboard](https://ccdev-react.ct.ws/cryptodashboard))
 ---
 ## Featured Projects
 
