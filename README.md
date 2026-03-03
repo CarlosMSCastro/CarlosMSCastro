@@ -61,7 +61,7 @@ Test your football knowledge! Identify players from Liga Portugal, Brasileirão,
 
 **Features:** Timer • Lives • Leaderboard • i18n • Responsive • Dark/Light
 
-⛳![GameSportsGIF](https://github.com/user-attachments/assets/90c986bf-da40-4ba8-b9f6-a2e46aae0b7a) [Play Now →](https://quizdabola.fun)  
+⛳ [Play Now →](https://quizdabola.fun)  
 🔗 [Repository →](https://github.com/CarlosMSCastro/QuizDaBola)
 
 </td>
