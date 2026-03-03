@@ -1,4 +1,10 @@
-**Full-Stack Developer** • Vila Nova de Famalicão, Portugal
+<div align="center">
+
+# 💻 Carlos Castro
+### Full-Stack Developer
+📍 Vila Nova de Famalicão, Portugal
+
+</div>
 
 ---
 
@@ -7,13 +13,13 @@
 <tr>
 <td width="50%">
 
-### Most Used Languages
+### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats-jk9q.vercel.app/api/top-langs?username=CarlosMSCastro&layout=compact&langs_count=10&theme=github_dark)
 
 </td>
 <td width="50%">
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -81,4 +87,8 @@ Full-featured CMS built from scratch with user authentication, dynamic content m
 
 ---
 
+<div align="center">
+
 💼 Currently open to **junior developer** and **trainee positions** in Porto/Braga area or remote opportunities.
+
+</div>
