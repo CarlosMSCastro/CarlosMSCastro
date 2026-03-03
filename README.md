@@ -1,8 +1,6 @@
 <div align="center">
 
-# 💻 Carlos Castro
-### Full-Stack Developer
-📍 Vila Nova de Famalicão, Portugal
+### Full-Stack Developer, 📍 Vila Nova de Famalicão, Portugal
 
 </div>
 
@@ -49,17 +47,31 @@
 
 ## 🚀 Featured Projects
 
-### ⚽ QuizDaBola
+<table>
+<tr>
+<td width="50%">
+
+### <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="40" align="center"> QuizDaBola
+
 > Full-stack football quiz game with 3 competitions and 2900+ players
 
 Test your football knowledge! Identify players from Liga Portugal, Brasileirão, and UEFA Champions League through Classic and Stats Quiz modes.
 
 **Stack:** `React` `Node.js` `MySQL` `TailwindCSS` `JWT` `Express`
 
-**Features:** Timer system • Lives • Leaderboard • i18n (PT/EN) • Responsive • Dark/Light mode
+**Features:** Timer • Lives • Leaderboard • i18n • Responsive • Dark/Light
 
 🔗 [Play Now →](https://quizdabola.fun)  
-🔗 [View Repository →](https://github.com/CarlosMSCastro/QuizDaBola)
+🔗 [Repository →](https://github.com/CarlosMSCastro/QuizDaBola)
+
+</td>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/landing.gif" width="100%" alt="QuizDaBola Demo">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -82,8 +94,7 @@ Full-featured CMS built from scratch with user authentication, dynamic content m
 **Stack:** `PHP` `MySQL` `Bootstrap` `Authentication`
 
 🔗 [View Repository →](https://github.com/CarlosMSCastro/Comunicacoes)  
-🔗 [Visit Live Website →](https://ccdev.free.nf)  
-🔗 [Visit Live Backoffice →](https://ccdev.free.nf/backoffice)
+🔗 [Live Website →](https://ccdev.free.nf) | [Backoffice →](https://ccdev.free.nf/backoffice)
 
 ---
 
