@@ -67,8 +67,8 @@ Test your football knowledge! Identify players from Liga Portugal, Brasileirão,
 </td>
 <td width="65%">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/landing.gif" width="50%" alt="QuizDaBola Demo">
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="45%" alt="QuizDaBola Quiz">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/landing.gif" width="40%" alt="QuizDaBola Demo">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="55%" alt="QuizDaBola Quiz">
 
 </td>
 </tr>
@@ -80,7 +80,6 @@ Test your football knowledge! Identify players from Liga Portugal, Brasileirão,
 <tr>
 <td width="35%">
 
-### 🃏 ExploitIGL
 
 ### <img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="200" align="center">
 > Poker analytics platform for hand history analysis and opponent profiling
@@ -97,7 +96,7 @@ Desktop application for tracking poker hands, analyzing opponents, and identifyi
 </td>
 <td width="65%">
 
-<img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="70%" alt="ExploitIGL Import">
+<img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="75%" alt="ExploitIGL Import">
 
 </td>
 </tr>
