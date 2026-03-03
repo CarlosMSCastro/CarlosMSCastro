@@ -76,14 +76,31 @@ Test your football knowledge! Identify players from Liga Portugal, Brasileirão,
 
 ---
 
+<table>
+<tr>
+<td width="35%">
+
 ### 🃏 ExploitIGL
+
 > Poker analytics platform for hand history analysis and opponent profiling
 
 Desktop application for tracking poker hands, analyzing opponents, and identifying profitable patterns in online poker games.
 
 **Stack:** `Python` `PySide6` `SQLite` `REST APIs`
 
-🔗 [View Repository →](https://github.com/CarlosMSCastro/ExploitIGL)
+**Features:** Hand tracking • Opponent analysis • Pattern recognition • Statistics
+
+🔗 [Repository →](https://github.com/CarlosMSCastro/ExploitIGL)
+
+</td>
+<td width="65%">
+
+<!-- Aqui vais adicionar screenshots do ExploitIGL quando tiveres -->
+<img src="https://via.placeholder.com/600x300/1a1a1a/ffffff?text=ExploitIGL+Screenshots" width="100%" alt="ExploitIGL Demo">
+
+</td>
+</tr>
+</table>
 
 ---
 
