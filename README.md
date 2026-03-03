@@ -47,61 +47,25 @@
 
 ## 🚀 Featured Projects
 
-### <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="200" align="left"> QuizDaBola
+<div align="center">
 
-> Full-stack football quiz game with 3 competitions and 2900+ players
-
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/landing.gif" width="45%" align="right" alt="QuizDaBola Demo">
-
-Test your football knowledge! Identify players from Liga Portugal, Brasileirão, and UEFA Champions League through Classic and Stats Quiz modes.
-
-**Stack:** `React` `Node.js` `MySQL` `TailwindCSS` `JWT` `Express`
-
-**Features:** Timer • Lives • Leaderboard • i18n • Responsive • Dark/Light
-
-⛳ [Play Now →](https://quizdabola.fun)  
-🔗 [Repository →](https://github.com/CarlosMSCastro/QuizDaBola)
-
-<br clear="both"/>
-
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="45%" alt="QuizDaBola Quiz">
+| | |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="200"><br><br>**Full-stack football quiz game**<br>3 competitions • 2900+ players<br><br>Test your football knowledge! Identify players from Liga Portugal, Brasileirão, and UEFA Champions League.<br><br>`React` `Node.js` `MySQL` `TailwindCSS` `JWT`<br><br>Timer • Lives • Leaderboard • i18n • Responsive<br><br>⛳ [Play Now](https://quizdabola.fun) • 🔗 [Repository](https://github.com/CarlosMSCastro/QuizDaBola) | <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/landing.gif" width="300"><br><img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="300"> |
 
 ---
 
-### <img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="200" align="left"> ExploitIGL
-
-> Poker analytics platform for hand history analysis and opponent profiling
-
-<img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="45%" align="right" alt="ExploitIGL Import">
-
-Desktop application for tracking poker hands, analyzing opponents, and identifying profitable patterns in online poker games.
-
-**Stack:** `Python` `PySide6` `SQLite` `REST APIs`
-
-**Features:** Hand tracking • Opponent analysis • Pattern recognition • Statistics
-
-🔗 [Repository →](https://github.com/CarlosMSCastro/ExploitIGL)
-
-<br clear="both"/>
+| | |
+|:---:|:---:|
+| <img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="200"><br><br>**Poker analytics platform**<br>Hand history analysis • Opponent profiling<br><br>Desktop app for tracking hands, analyzing opponents, and identifying profitable patterns.<br><br>`Python` `PySide6` `SQLite` `REST APIs`<br><br>Hand tracking • Pattern recognition • Statistics<br><br>🔗 [Repository](https://github.com/CarlosMSCastro/ExploitIGL) | <img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="450"> |
 
 ---
 
-### <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="200" align="left"> CMS-PHP Platform
+| | |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="200"><br><br>**CMS-PHP Platform**<br>Content management system<br><br>Full-featured CMS with user auth, dynamic content management, and admin panel.<br><br>`PHP` `MySQL` `Bootstrap` `Authentication`<br><br>User auth • Dynamic content • Admin panel<br><br>🔗 [Repository](https://github.com/CarlosMSCastro/Comunicacoes) • 🌐 [Live](https://ccdev.free.nf) | <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="450"> |
 
-> Custom content management system with admin panel for dynamic content editing
-
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="45%" align="right" alt="CMS-PHP Platform">
-
-Full-featured CMS built from scratch with user authentication, dynamic content management, and responsive admin interface.
-
-**Stack:** `PHP` `MySQL` `Bootstrap` `Authentication`
-
-**Features:** User auth • Dynamic content • Admin panel • Responsive design
-
-🔗 [Repository →](https://github.com/CarlosMSCastro/Comunicacoes)  
-🌐 [Live Website →](https://ccdev.free.nf) | [Backoffice →](https://ccdev.free.nf/backoffice)
-
-<br clear="both"/>
+</div>
 
 ---
 
