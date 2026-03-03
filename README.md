@@ -47,9 +47,9 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table style="border: none;">
 <tr>
-<td width="35%">
+<td width="35%" style="border: none;">
 
 ### <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="200" align="center">
 
@@ -65,7 +65,7 @@ Test your football knowledge! Identify players from Liga Portugal, Brasileirão,
 🔗 [Repository →](https://github.com/CarlosMSCastro/QuizDaBola)
 
 </td>
-<td width="65%">
+<td width="65%" style="border: none;">
 
 <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/landing.gif" width="40%" alt="QuizDaBola Demo">
 <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="50%" alt="QuizDaBola Quiz">
@@ -76,14 +76,13 @@ Test your football knowledge! Identify players from Liga Portugal, Brasileirão,
 
 ---
 
-<table>
+<table style="border: none;">
 <tr>
-<td width="35%">
-
+<td width="35%" style="border: none;">
 
 ### <img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="200" align="center">
-> Poker analytics platform for hand history analysis and opponent profiling
 
+> Poker analytics platform for hand history analysis and opponent profiling
 
 Desktop application for tracking poker hands, analyzing opponents, and identifying profitable patterns in online poker games.
 
@@ -94,7 +93,7 @@ Desktop application for tracking poker hands, analyzing opponents, and identifyi
 🔗 [Repository →](https://github.com/CarlosMSCastro/ExploitIGL)
 
 </td>
-<td width="65%">
+<td width="65%" style="border: none;">
 
 <img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="75%" alt="ExploitIGL Import">
 
@@ -104,9 +103,9 @@ Desktop application for tracking poker hands, analyzing opponents, and identifyi
 
 ---
 
-<table>
+<table style="border: none;">
 <tr>
-<td width="35%">
+<td width="35%" style="border: none;">
 
 ### <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="200" align="center">
 
@@ -122,15 +121,13 @@ Full-featured CMS built from scratch with user authentication, dynamic content m
 🌐 [Live Website →](https://ccdev.free.nf) | [Backoffice →](https://ccdev.free.nf/backoffice)
 
 </td>
-<td width="65%">
+<td width="65%" style="border: none;">
 
-<!-- Screenshot do CMS quando tiveres -->
 <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="90%" alt="CMS-PHP Platform">
 
 </td>
 </tr>
 </table>
-
 
 ---
 
