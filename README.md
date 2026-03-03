@@ -104,15 +104,33 @@ Desktop application for tracking poker hands, analyzing opponents, and identifyi
 
 ---
 
-### 📝 CMS-PHP Platform
+<table>
+<tr>
+<td width="35%">
+
+### <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="200" align="center">
+
 > Custom content management system with admin panel for dynamic content editing
 
 Full-featured CMS built from scratch with user authentication, dynamic content management, and responsive admin interface.
 
 **Stack:** `PHP` `MySQL` `Bootstrap` `Authentication`
 
-🔗 [View Repository →](https://github.com/CarlosMSCastro/Comunicacoes)  
-🔗 [Live Website →](https://ccdev.free.nf) | [Backoffice →](https://ccdev.free.nf/backoffice)
+**Features:** User auth • Dynamic content • Admin panel • Responsive design
+
+🔗 [Repository →](https://github.com/CarlosMSCastro/Comunicacoes)  
+🌐 [Live Website →](https://ccdev.free.nf) | [Backoffice →](https://ccdev.free.nf/backoffice)
+
+</td>
+<td width="65%">
+
+<!-- Screenshot do CMS quando tiveres -->
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="90%" alt="CMS-PHP Platform">
+
+</td>
+</tr>
+</table>
+
 
 ---
 
