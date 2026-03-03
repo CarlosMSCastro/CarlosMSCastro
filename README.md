@@ -47,13 +47,11 @@
 
 ## 🚀 Featured Projects
 
-<table style="border: none;">
-<tr>
-<td width="35%" style="border: none;">
-
-### <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="200" align="center">
+### <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="200" align="left"> QuizDaBola
 
 > Full-stack football quiz game with 3 competitions and 2900+ players
+
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/landing.gif" width="45%" align="right" alt="QuizDaBola Demo">
 
 Test your football knowledge! Identify players from Liga Portugal, Brasileirão, and UEFA Champions League through Classic and Stats Quiz modes.
 
@@ -64,25 +62,17 @@ Test your football knowledge! Identify players from Liga Portugal, Brasileirão,
 ⛳ [Play Now →](https://quizdabola.fun)  
 🔗 [Repository →](https://github.com/CarlosMSCastro/QuizDaBola)
 
-</td>
-<td width="65%" style="border: none;">
+<br clear="both"/>
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/landing.gif" width="40%" alt="QuizDaBola Demo">
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="50%" alt="QuizDaBola Quiz">
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="45%" alt="QuizDaBola Quiz">
 
 ---
 
-<table style="border: none;">
-<tr>
-<td width="35%" style="border: none;">
-
-### <img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="200" align="center">
+### <img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="200" align="left"> ExploitIGL
 
 > Poker analytics platform for hand history analysis and opponent profiling
+
+<img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="45%" align="right" alt="ExploitIGL Import">
 
 Desktop application for tracking poker hands, analyzing opponents, and identifying profitable patterns in online poker games.
 
@@ -92,24 +82,15 @@ Desktop application for tracking poker hands, analyzing opponents, and identifyi
 
 🔗 [Repository →](https://github.com/CarlosMSCastro/ExploitIGL)
 
-</td>
-<td width="65%" style="border: none;">
-
-<img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="75%" alt="ExploitIGL Import">
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 ---
 
-<table style="border: none;">
-<tr>
-<td width="35%" style="border: none;">
-
-### <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="200" align="center">
+### <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="200" align="left"> CMS-PHP Platform
 
 > Custom content management system with admin panel for dynamic content editing
+
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="45%" align="right" alt="CMS-PHP Platform">
 
 Full-featured CMS built from scratch with user authentication, dynamic content management, and responsive admin interface.
 
@@ -120,14 +101,7 @@ Full-featured CMS built from scratch with user authentication, dynamic content m
 🔗 [Repository →](https://github.com/CarlosMSCastro/Comunicacoes)  
 🌐 [Live Website →](https://ccdev.free.nf) | [Backoffice →](https://ccdev.free.nf/backoffice)
 
-</td>
-<td width="65%" style="border: none;">
-
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="90%" alt="CMS-PHP Platform">
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 ---
 
