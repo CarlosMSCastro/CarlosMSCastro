@@ -95,8 +95,7 @@ Desktop application for tracking poker hands, analyzing opponents, and identifyi
 </td>
 <td width="65%">
 
-<!-- Aqui vais adicionar screenshots do ExploitIGL quando tiveres -->
-<img src="[https://via.placeholder.com/600x300/1a1a1a/ffffff?text=ExploitIGL+Screenshots](https://private-user-images.githubusercontent.com/212031799/537837734-8c7682ee-502d-43ce-8e23-c319f67dc1fe.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI1ODAzNjUsIm5iZiI6MTc3MjU4MDA2NSwicGF0aCI6Ii8yMTIwMzE3OTkvNTM3ODM3NzM0LThjNzY4MmVlLTUwMmQtNDNjZS04ZTIzLWMzMTlmNjdkYzFmZS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwM1QyMzIxMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNjZlNzk4YTVmYjQ0NzdjMzFjYzdhYjg1ZjUzZGU3ODNmYzFiNjJhMTRhYWJmMmY4OGY5Njk5ODA1OTM3OTY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.H_SkwMR0XiPDPoMWDXNoqRSKqNKiYS_bHHSnnTV8FKE)" width="100%" alt="ExploitIGL Demo">
+<img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="70%" alt="ExploitIGL Import">
 
 </td>
 </tr>
