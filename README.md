@@ -68,6 +68,7 @@ Test your football knowledge! Identify players from Liga Portugal, Brasileirão,
 <td width="50%">
 
 <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/landing.gif" width="50%" alt="QuizDaBola Demo">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="50%" alt="QuizDaBola Quiz">
 
 </td>
 </tr>
