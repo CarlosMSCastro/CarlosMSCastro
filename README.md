@@ -82,7 +82,9 @@ Test your football knowledge! Identify players from Liga Portugal, Brasileirão,
 
 ### 🃏 ExploitIGL
 
+### <img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="200" align="center">
 > Poker analytics platform for hand history analysis and opponent profiling
+
 
 Desktop application for tracking poker hands, analyzing opponents, and identifying profitable patterns in online poker games.
 
