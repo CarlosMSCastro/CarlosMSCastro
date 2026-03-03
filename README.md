@@ -51,7 +51,7 @@
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="40" align="center"> QuizDaBola
+### <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="200" align="center">
 
 > Full-stack football quiz game with 3 competitions and 2900+ players
 
@@ -67,7 +67,7 @@ Test your football knowledge! Identify players from Liga Portugal, Brasileirão,
 </td>
 <td width="50%">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/landing.gif" width="100%" alt="QuizDaBola Demo">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/landing.gif" width="50%" alt="QuizDaBola Demo">
 
 </td>
 </tr>
