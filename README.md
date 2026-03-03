@@ -1,12 +1,22 @@
-# Carlos Castro
+
 **Full-Stack Developer** • Vila Nova de Famalicão, Portugal
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmscastro/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carloscastro96@live.com.pt)
 ---
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### Most Used Languages
 ![Top Langs](https://github-readme-stats-jk9q.vercel.app/api/top-langs?username=CarlosMSCastro&layout=compact&langs_count=10&theme=github_dark)
----
-## Tech Stack
-**Languages**<br>
+
+</td>
+<td width="50%">
+
+### Tech Stack
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -14,14 +24,21 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
-**Frameworks & Tools**<br>
+**Frameworks & Tools**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
+</td>
+</tr>
+</table>
 
-
->  Actively developing React skills  🔗([MovieDatabase](https://ccdev-react.ct.ws/moviedb)) 🔗([MemoryGame](https://ccdev-react.ct.ws/afbraga)) 🔗([MusicPlayer](https://ccdev-react.ct.ws/musicplayer)) 🔗([CryptoDashboard](https://ccdev-react.ct.ws/cryptodashboard))
+</div>
 ---
 ## Featured Projects
 
