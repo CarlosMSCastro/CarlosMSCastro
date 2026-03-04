@@ -5,14 +5,8 @@
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
 ![Top Langs](https://github-readme-stats-jk9q.vercel.app/api/top-langs?username=CarlosMSCastro&layout=compact&langs_count=10&theme=github_dark)
-
-</td>
-<td width="50%">
 
 ### 🛠️ Tech Stack
 
@@ -33,30 +27,21 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-</td>
-</tr>
-</table>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Personal Portfolio
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="180"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="200">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="220" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="200" style="vertical-align: middle;">
 
 ### QuizDaBola
 
 **Full-stack football quiz game • 3 competitions • 2900+ players**
 
-Test your football knowledge! Identify players from Liga Portugal, Brasileirão, and UEFA Champions League through Classic and Stats Quiz modes.
-
-`React` `Node.js` `MySQL` `TailwindCSS` `JWT` `Express`
-
-Timer • Lives • Leaderboard • i18n • Responsive • Dark/Light
-
-⛳ [Play Now](https://quizdabola.fun) • 🔗 [Repository](https://github.com/CarlosMSCastro/QuizDaBola)
+[![Play Now](https://img.shields.io/badge/⚽_Play_Now-FFD700?style=for-the-badge)](https://quizdabola.fun) [![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/CarlosMSCastro/QuizDaBola)
 
 </div>
 
@@ -64,19 +49,13 @@ Timer • Lives • Leaderboard • i18n • Responsive • Dark/Light
 
 <div align="center">
 
-<img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="150"> <img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="200">
+<img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="180" style="vertical-align: middle;"> <img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="200" style="vertical-align: middle;">
 
 ### ExploitIGL
 
-**Poker analytics platform**
+**Desktop poker analytics platform for tracking hands and analyzing opponents**
 
-Desktop app for tracking hands, analyzing opponents, and identifying profitable patterns.
-
-`Python` `PySide6` `SQLite` `REST APIs`
-
-Hand tracking • Pattern recognition • Statistics
-
-🔗 [Repository](https://github.com/CarlosMSCastro/ExploitIGL)
+[![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/CarlosMSCastro/ExploitIGL)
 
 </div>
 
@@ -84,19 +63,13 @@ Hand tracking • Pattern recognition • Statistics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="150"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="200">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="180" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="200" style="vertical-align: middle;">
 
 ### CMS-PHP Platform
 
-**Content management system**
+**Content management system with user authentication and admin panel**
 
-Full-featured CMS with user auth, dynamic content management, and admin panel.
-
-`PHP` `MySQL` `Bootstrap` `Authentication`
-
-User auth • Dynamic content • Admin panel
-
-🔗 [Repository](https://github.com/CarlosMSCastro/Comunicacoes) • 🌐 [Live](https://ccdev.free.nf)
+[![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/CarlosMSCastro/Comunicacoes) [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://ccdev.free.nf)
 
 </div>
 
