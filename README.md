@@ -1,12 +1,15 @@
-<div align="center">
 
-### Full-Stack Developer, 📍 Vila Nova de Famalicão, Portugal
-
-</div>
 
 <div align="center">
+
+<table border="0">
+<tr>
+<td width="50%" valign="top">
 
 ![Top Langs](https://github-readme-stats-jk9q.vercel.app/api/top-langs?username=CarlosMSCastro&layout=compact&langs_count=10&theme=github_dark)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🛠️ Tech Stack
 
@@ -26,6 +29,10 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
