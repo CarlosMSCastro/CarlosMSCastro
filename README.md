@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats-jk9q.vercel.app/api/top-langs?username=CarlosMSCastro&layout=compact&langs_count=10&theme=github_dark)
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -24,11 +24,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 </div>
----
 
 <div align="center">
 
-## 💼 Personal Portfolio
+## Personal Portfolio
 
 </div>
 
