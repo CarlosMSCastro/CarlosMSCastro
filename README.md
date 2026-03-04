@@ -31,11 +31,15 @@
 
 ---
 
+<div align="center">
+
 ## 💼 Personal Portfolio
+
+</div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="220" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="200" style="vertical-align: middle;">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="220" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="200" align="middle">
 
 ### QuizDaBola
 
@@ -49,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="180" style="vertical-align: middle;"> <img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="200" style="vertical-align: middle;">
+<img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="180" align="middle"> <img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="200" align="middle">
 
 ### ExploitIGL
 
@@ -63,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="180" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="200" style="vertical-align: middle;">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="180" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="200" align="middle">
 
 ### CMS-PHP Platform
 
