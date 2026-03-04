@@ -23,9 +23,11 @@
 
 </div>
 
+---
+
 <div align="center">
 
-### Personal Portfolio
+## Personal Portfolio
 
 </div>
 
@@ -33,7 +35,7 @@
 
 <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="220" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="200" align="middle">
 
-## QuizDaBola
+### QuizDaBola
 
 **Full-stack football quiz game • 3 competitions • 2900+ players**
 
@@ -47,7 +49,7 @@
 
 <img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="180" align="middle"> <img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="200" align="middle">
 
-## ExploitIGL
+### ExploitIGL
 
 **Desktop poker analytics platform for tracking hands and analyzing opponents**
 
@@ -61,7 +63,7 @@
 
 <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="180" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="200" align="middle">
 
-## CMS-PHP Platform
+### CMS-PHP Platform
 
 **Content management system with user authentication and admin panel**
 
