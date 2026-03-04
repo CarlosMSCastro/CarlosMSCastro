@@ -43,10 +43,21 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="280">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="180">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="500">
+</td>
+<td width="70%">
+
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="400">
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 ### QuizDaBola
 
@@ -60,15 +71,29 @@ Timer • Lives • Leaderboard • i18n • Responsive • Dark/Light
 
 ⛳ [Play Now](https://quizdabola.fun) • 🔗 [Repository](https://github.com/CarlosMSCastro/QuizDaBola)
 
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
 <div align="center">
+<table>
+<tr>
+<td width="30%" align="center">
 
-<img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="200">
+<img src="https://github.com/CarlosMSCastro/Exploitigl/blob/main/frontend/assets/logo_spin.gif" width="150">
 
-<img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="500">
+</td>
+<td width="70%">
+
+<img src="https://github.com/user-attachments/assets/8c7682ee-502d-43ce-8e23-c319f67dc1fe" width="400">
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 ### ExploitIGL
 
@@ -82,15 +107,29 @@ Hand tracking • Pattern recognition • Statistics
 
 🔗 [Repository](https://github.com/CarlosMSCastro/ExploitIGL)
 
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
 <div align="center">
+<table>
+<tr>
+<td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="200">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="150">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="500">
+</td>
+<td width="70%">
+
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="400">
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 ### CMS-PHP Platform
 
@@ -104,6 +143,9 @@ User auth • Dynamic content • Admin panel
 
 🔗 [Repository](https://github.com/CarlosMSCastro/Comunicacoes) • 🌐 [Live](https://ccdev.free.nf)
 
+</td>
+</tr>
+</table>
 </div>
 
 ---
