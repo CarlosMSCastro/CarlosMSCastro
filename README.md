@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="50%">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td valign="top" width="50%" style="border: none;">
 
 ![Top Langs](https://github-readme-stats-jk9q.vercel.app/api/top-langs?username=CarlosMSCastro&layout=compact&langs_count=10&theme=github_dark)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none;">
 
 ### Tech Stack
 
