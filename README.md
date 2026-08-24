@@ -44,6 +44,20 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/fumarentasdoasfalto/main/public/logo.png" width="200" align="middle">
+
+### Fumarentas do Asfalto
+
+**Site oficial de uma associação de motociclismo • loja com pagamentos reais (Multibanco/MB WAY), gestão de sócios e painel de administração completo**
+
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-4CAF50?style=for-the-badge)](https://fumarentasdoasfalto.com) [![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/CarlosMSCastro/fumarentasdoasfalto)
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="220" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="200" align="middle">
 
 ### QuizDaBola
