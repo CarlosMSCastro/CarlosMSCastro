@@ -11,14 +11,14 @@
 </td>
 <td align="center" valign="top" width="50%" style="border: none;">
 
-![Tech Stack](https://img.shields.io/badge/Tech_Stack-58A6FF?style=for-the-badge)
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-![Frameworks & Tools](https://img.shields.io/badge/Frameworks_%26_Tools-58A6FF?style=for-the-badge)
+**Frameworks & Tools**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
