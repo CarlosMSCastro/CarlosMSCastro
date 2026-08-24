@@ -60,11 +60,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/images/logo.png" width="220" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/QuizDaBola/master/frontend/public/readme/quiz.png" width="200" align="middle">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/CarlosMSCastro/main/assets/quizdabola-1.png" width="420" height="210" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/CarlosMSCastro/main/assets/quizdabola-2.png" width="420" height="210" align="middle">
 
 ### QuizDaBola
 
 **Full-stack football quiz game • 3 competitions • 2900+ players**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 [![Play Now](https://img.shields.io/badge/⚽_Play_Now-FFD700?style=for-the-badge)](https://quizdabola.fun) [![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/CarlosMSCastro/QuizDaBola)
 
