@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/CarlosMSCastro/main/assets/fumarentas-homepage.png" width="360" height="180" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/CarlosMSCastro/main/assets/fumarentas-admin.png" width="360" height="180" align="middle">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/CarlosMSCastro/main/assets/fumarentas-homepage.png" width="400" height="200" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/CarlosMSCastro/main/assets/fumarentas-admin.png" width="400" height="200" align="middle">
 
 ### Fumarentas do Asfalto
 
