@@ -92,11 +92,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imagens/LogotipoComunicacoes2.png" width="180" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/php-cms-platform/refs/heads/main/imgsreadme/frontend2.png" width="200" align="middle">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/CarlosMSCastro/main/assets/cms-php-1.png" width="420" height="210" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/CarlosMSCastro/main/assets/cms-php-2.png" width="420" height="210" align="middle">
 
 ### CMS-PHP Platform
 
 **Content management system with user authentication and admin panel**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TinyMCE](https://img.shields.io/badge/TinyMCE-1D2E3D?style=flat)
 
 [![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/CarlosMSCastro/Comunicacoes) [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://ccdev.free.nf)
 
