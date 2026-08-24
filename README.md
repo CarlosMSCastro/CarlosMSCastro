@@ -44,11 +44,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CarlosMSCastro/fumarentasdoasfalto/main/public/logo.png" width="200" align="middle">
+<img src="https://raw.githubusercontent.com/CarlosMSCastro/CarlosMSCastro/main/assets/fumarentas-homepage.png" width="220" align="middle"> <img src="https://raw.githubusercontent.com/CarlosMSCastro/CarlosMSCastro/main/assets/fumarentas-admin.png" width="220" align="middle">
 
 ### Fumarentas do Asfalto
 
 **Site oficial de uma associação de motociclismo • loja com pagamentos reais (Multibanco/MB WAY), gestão de sócios e painel de administração completo**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-4CAF50?style=for-the-badge)](https://fumarentasdoasfalto.com) [![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/CarlosMSCastro/fumarentasdoasfalto)
 
